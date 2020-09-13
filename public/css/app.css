@@ -1,0 +1,85 @@
+a{
+    margin: 50px;
+   text-align: center;
+
+}
+h1{
+text-align: center;
+}
+.a1{
+    /* align-content: center; */
+    text-align: center;
+    align-content: center;
+    margin-left: 350px;
+
+
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-vector/pastel-blue-banner-background_1048-11857.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+
+}
+.active , .nav-link:hover {
+    background-color: rgb(37, 140, 209);
+    color: white;
+  }
+
+  /* table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+   
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  } */
+
+  h2{
+margin-left: 50px;
+text-align: center;
+background-color: slategrey;
+width: 20%;
+border-radius: 18px;
+padding: 20px;
+  }
+  h3{
+    /* margin-left: 30px;  */
+    text-align: center;
+    width: 25%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+  }
+ .form-group{
+     width: 50%;
+     margin-left: 400px;
+ }
+ .btn1 {
+    margin-left: 400px;
+ }
+ fieldset {
+    background-color: #eeeeee;
+    padding-bottom: 30px;
+    width: 30%;
+  
+  }
+  
+  legend {
+     
+    background-color: darkseagreen;
+    color: white;
+  
+  }
+  p{
+   text-align: center;
+  }
